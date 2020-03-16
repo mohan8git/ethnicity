@@ -11,7 +11,7 @@ MORE DATA MORE ACCURACY
 Just follow the steps mentioned in the YOLOv3
 
 
-
+ 
 Click on the follow link for the video.
 
 
