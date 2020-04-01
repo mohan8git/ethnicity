@@ -15,6 +15,10 @@ Just follow the steps mentioned in the YOLOv3
 Click on the follow link for the video.
 
 
+Steps:
+First collect all the dataset start labelling them. 
+
+
 
 
 
