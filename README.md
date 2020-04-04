@@ -16,7 +16,9 @@ Click on the follow link for the video.
 
 
 Steps:
-First collect all the dataset start labelling them. 
+1. First collect all the dataset start labelling them. 
+2. Install the darknet in your system you can do in windows or ubuntu.
+
 
 
 
