@@ -14,6 +14,9 @@ Just follow the steps mentioned in the YOLOv3
  
 Click on the follow link for the video.
 
+Output of the code:
+https://www.youtube.com/watch?v=-eDkCjfQ8HE&t=25s
+
 
 Steps:
 1. First collect all the dataset start labelling them. 
