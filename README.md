@@ -21,6 +21,10 @@ https://www.youtube.com/watch?v=-eDkCjfQ8HE&t=25s
 Steps:
 1. First collect all the dataset start labelling them. 
 2. Install the darknet in your system you can do in windows or ubuntu.
+3. Make the "Makefile" right and make the config file right.
+4. Train the model and check the accuracy.
+5. If accurcy is less than again train the model with better dataset.
+
 
 
 
