@@ -24,6 +24,7 @@ Steps:
 3. Make the "Makefile" right and make the config file right.
 4. Train the model and check the accuracy.
 5. If accurcy is less than again train the model with better dataset.
+6. Store the weight file and keep the last weights so if anything goes wrong then you can use again start it over.
 
 
 
