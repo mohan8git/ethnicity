@@ -26,6 +26,9 @@ Steps:
 5. If accurcy is less than again train the model with better dataset.
 6. Store the weight file and keep the last weights so if anything goes wrong then you can use again start it over.
 7. When there is some kind of connection problem or execuation error then you can again start it from the initial.
+8. Train on some actual video input, design some GUI to show the output of the video.
+9. Finally pass it over to the client if some other thing is required do the needful and pass it over.
+
 
 
 
