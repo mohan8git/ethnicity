@@ -1,5 +1,7 @@
 # ethnicity detection using yolov3 or darknet
 Ethnicity using tensorflow and self made dataset
+
+Words of Wisdom!!!
 -------------------------------------------------------------------------------------------------------------------------
 Click on this below link for complete explanation.
 
